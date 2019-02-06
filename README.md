@@ -1,7 +1,7 @@
 # Node.js
 
-<h2> What is Node.js? </h2>
+<h2> WTF is Node.js? </h2>
 
-<h2> How Node.js works </h2>
+<h2> How does Node.js work? </h2>
 
-<h2> How to set up the Node.js environment </h2>
+<h2> How do I set up the Node.js environment? </h2>
